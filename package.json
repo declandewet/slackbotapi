@@ -21,7 +21,7 @@
   "dependencies": {
     "ws": "*",
     "request": "*",
-    "jethro": "*",
+    "jethro": ">=4.4.1",
     "eventemitter3": "*"
   },
   "author": "xBytez <me@xbytez.eu>",
