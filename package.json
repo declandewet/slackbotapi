@@ -19,7 +19,7 @@
     "bot"
   ],
   "dependencies": {
-    "ws": "*",
+    "ws": ">=7.1.1",
     "request": "*",
     "jethro": "*",
     "eventemitter3": "*"
