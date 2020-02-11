@@ -20,7 +20,7 @@
   ],
   "dependencies": {
     "ws": "*",
-    "request": "*",
+    "request": ">=2.88.2",
     "jethro": "*",
     "eventemitter3": "*"
   },
