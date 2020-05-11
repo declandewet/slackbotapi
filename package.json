@@ -22,7 +22,7 @@
     "ws": "*",
     "request": "*",
     "jethro": "*",
-    "eventemitter3": "*"
+    "eventemitter3": ">=4.0.2"
   },
   "author": "xBytez <me@xbytez.eu>",
   "contributors": [
